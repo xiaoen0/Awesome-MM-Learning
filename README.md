@@ -1,5 +1,7 @@
 # Awesome-MM-Learning
 ## Image-Language
+- **4M-21: An Any-to-Any Vision Model for Tens of Tasks and Modalities** <br>
+[[paper](https://arxiv.org/abs/2406.09406)] [[code](https://github.com/apple/ml-4m)]
 - **Minigpt-4: Enhancing vision-language understanding with advanced large language models** <br>
 [ICLR 2023] [[paper](https://arxiv.org/abs/2304.10592)] [[project page](https://minigpt-4.github.io/)]
 - **GILL: Generating Images with Multimodal Language Models** <br>
